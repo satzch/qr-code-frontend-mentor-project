@@ -22,7 +22,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### Links
 
 - Solution URL: [https://github.com/satzch/qr-code-frontend-mentor-project](https://github.com/satzch/qr-code-frontend-mentor-project)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://satzch.github.io/qr-code-frontend-mentor-project](https://satzch.github.io/qr-code-frontend-mentor-project/)
 
 ## My process
 
